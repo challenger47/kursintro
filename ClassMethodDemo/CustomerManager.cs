@@ -22,7 +22,7 @@ namespace ClassMethodDemo
         {
             foreach (Customer customer in List)
             {
-                Console.WriteLine(customer.Id + customer.Name + customer.Surname);
+                  Console.WriteLine(customer.Id + customer.Name + customer.Surname);
             }
         }
 

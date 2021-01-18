@@ -26,7 +26,7 @@ namespace ClassMethodDemo
             customerManager.Add(customer1);
             customerManager.Delete(customer2);
             customerManager.List(customers);
-            Console.ReadLine();
+            Console.ReadLine();  
 
 
         }
