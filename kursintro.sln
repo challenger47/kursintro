@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Mate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerveReferanstipler", "DegerveReferanstipler\DegerveReferanstipler.csproj", "{E5182F65-A890-4D23-AB40-4FE3568119DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{B01807AB-F2D9-4426-AE63-140402F9D58A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetodDemo", "ClassMetodDemo\ClassMetodDemo.csproj", "{3D0FE6BD-51AA-42FA-B58E-2D0575FBB8C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{E5182F65-A890-4D23-AB40-4FE3568119DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5182F65-A890-4D23-AB40-4FE3568119DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5182F65-A890-4D23-AB40-4FE3568119DA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B01807AB-F2D9-4426-AE63-140402F9D58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B01807AB-F2D9-4426-AE63-140402F9D58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B01807AB-F2D9-4426-AE63-140402F9D58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B01807AB-F2D9-4426-AE63-140402F9D58A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0FE6BD-51AA-42FA-B58E-2D0575FBB8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0FE6BD-51AA-42FA-B58E-2D0575FBB8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0FE6BD-51AA-42FA-B58E-2D0575FBB8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0FE6BD-51AA-42FA-B58E-2D0575FBB8C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
