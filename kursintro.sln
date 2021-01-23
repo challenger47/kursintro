@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1082
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kursintro", "kursintro\kursintro.csproj", "{16E7D519-0215-4C5E-84DC-73EB55B815F2}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methodlar", "methodlar\methodlar.csproj", "{CA6F934D-FA42-4ED2-933E-A159BC9B6E8C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{A82A3090-3CAE-491C-A4A1-84EFB29DD89E}"
@@ -19,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{A0434E44-1DB3-4642-8CD3-2DE483FF0959}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{1F07F3E3-A7ED-41AC-9A09-D7F13A0D9923}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{61379F46-AE4D-4446-93A7-520FFAA93FEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,10 +25,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{16E7D519-0215-4C5E-84DC-73EB55B815F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{16E7D519-0215-4C5E-84DC-73EB55B815F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{16E7D519-0215-4C5E-84DC-73EB55B815F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{16E7D519-0215-4C5E-84DC-73EB55B815F2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CA6F934D-FA42-4ED2-933E-A159BC9B6E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CA6F934D-FA42-4ED2-933E-A159BC9B6E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA6F934D-FA42-4ED2-933E-A159BC9B6E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -59,10 +53,10 @@ Global
 		{A0434E44-1DB3-4642-8CD3-2DE483FF0959}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0434E44-1DB3-4642-8CD3-2DE483FF0959}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0434E44-1DB3-4642-8CD3-2DE483FF0959}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1F07F3E3-A7ED-41AC-9A09-D7F13A0D9923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1F07F3E3-A7ED-41AC-9A09-D7F13A0D9923}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1F07F3E3-A7ED-41AC-9A09-D7F13A0D9923}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1F07F3E3-A7ED-41AC-9A09-D7F13A0D9923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61379F46-AE4D-4446-93A7-520FFAA93FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61379F46-AE4D-4446-93A7-520FFAA93FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61379F46-AE4D-4446-93A7-520FFAA93FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61379F46-AE4D-4446-93A7-520FFAA93FEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
