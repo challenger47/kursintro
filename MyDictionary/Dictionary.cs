@@ -2,16 +2,17 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Dictionary
+namespace MyDictionary
 {
-    class MyDictionary<TKey, TValue>
+    
+    class Dictionary<TKey, TValue>
     {
         TKey[] keys;
         TValue[] values;
-        public MyDictionary()
+        public Dictionary()
         {
             keys = new TKey[0];
-            values = new TValue[0];  
+            values = new TValue[0];
         }
         public void Add(TKey key, TValue value)
         {
@@ -27,7 +28,7 @@ namespace Dictionary
                 values[i] = tempValues[i];
             }
 
-            
+
 
             keys[keys.Length - 1] = key;
             values[values.Length - 1] = value;
